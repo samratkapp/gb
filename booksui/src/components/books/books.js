@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { useContext, useEffect, useState } from 'react'
 import { Col, Row } from 'react-bootstrap'
-import { getBooks } from '../../service.js/books.service'
+import { getBooks } from '../../service/books.service'
 import { Search } from '../search/search'
 import { BookItem } from './book-item'
 import { BooksContext } from './book.context'

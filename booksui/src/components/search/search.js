@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from 'react'
-import { getBooks } from '../../service.js/books.service'
+import { getBooks } from '../../service/books.service'
 import { BooksContext } from '../books/book.context'
 import { SearchContext } from './search.context'
 
