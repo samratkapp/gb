@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.app-body {
+  padding: 10px;
+}
+
+.filter {
+  padding: 10px 10px;
+  display: flex;
+  align-items: right;
+}
+
+.filter label {
+  padding: 0px 15px;
+}
+
+.book-item {
+  margin-bottom: 20px;
+}
+
+div.book-item img {
+  height: 280px !important;
+}
+
+
+div.book-detail img {
+  margin: 20px auto;
+  height: 380px !important;
+  width: 90%;
+}
+
+.pagination {
+  margin: 0 auto;
+}
