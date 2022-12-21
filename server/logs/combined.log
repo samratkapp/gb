@@ -4244,3 +4244,84 @@
 {"level":"info","message":"Received SIGINT. Press Control-D to exit."}
 {"level":"info","message":"Received SIGINT. Press Control-D to exit."}
 {"level":"info","message":"Received SIGINT. Press Control-D to exit."}
+{"level":"info","message":"Listening on port 3005"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}

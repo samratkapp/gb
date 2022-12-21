@@ -20,7 +20,7 @@
         // "semi": "error",
         "semi-spacing": "error",
         "semi": [
-            "error",
+            "warn",
             "never"
         ], //, { "omitLastInOneLineBlock": true}
         //* Best Practices
