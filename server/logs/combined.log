@@ -6070,3 +6070,4 @@
 {"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
 {"level":"info","message":"BooksController:getBooks"}
 {"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"Listening on port 3005"}
