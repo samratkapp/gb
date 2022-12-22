@@ -12,4 +12,4 @@ export default {
   }
 }
 
-export const GOOGLE_BOOK_API_KEY = 'AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA'
+export const GOOGLE_BOOK_API_KEY = ''
