@@ -21,8 +21,7 @@ export const BookItem = ({item}) => {
       <Card.Body>
         <Card.Title > {(item?.volumeInfo.title).substring(0, 35)}</Card.Title>
         <Card.Text>
-          {/* {JSON.stringify(bookItem)} */}
-          <section
+          <div className='item-text'
             dangerouslySetInnerHTML={{ __html: (item?.volumeInfo.description || '').substring(0, 200) }}
           />
         </Card.Text>

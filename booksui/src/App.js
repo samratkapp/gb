@@ -7,7 +7,6 @@ import { Header } from './components/header/header'
 import { Footer } from './components/footer/footer'
 import Navigation from './components/routes'
 import { useState } from 'react'
-import { Search } from './components/search/search'
 import { BooksContext } from './components/books/book.context'
 import { SearchContext } from './components/search/search.context'
 
@@ -31,7 +30,6 @@ function App() {
             </section>
           </BooksContext.Provider>
         </SearchContext.Provider>
-
         <Footer />
       </div>
     </BrowserRouter>

@@ -7,7 +7,7 @@ export const getBooks = (params = {
     if (!params.q) {
       params = {
         ...params,
-        q: 'Jon Winokur',
+        q: 'Robotics',
       }
     }
     if (!params.startIndex) {
@@ -17,7 +17,7 @@ export const getBooks = (params = {
     }
     params = {
       ...params,
-      maxResults:21
+      maxResults:16
     }
      
     axios.get('http://localhost:3005/books', {

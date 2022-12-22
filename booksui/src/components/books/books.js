@@ -1,11 +1,12 @@
 /* eslint-disable no-unused-vars */
 import { useContext, useEffect } from 'react'
-import { Col, Row } from 'react-bootstrap'
+import { Badge, Col, Row } from 'react-bootstrap'
 import { getBooks } from '../../service/books.service'
 import { Search } from '../search/search'
 import { BookItem } from './book-item'
 import { BooksContext } from './book.context'
 import { Paginationui } from '../pagination'
+import { Autours } from '../autours/autours'
 
 
 export const Books = () => {
@@ -27,15 +28,21 @@ export const Books = () => {
  
   return (
     <>
-      <Row xs={1} md={3} className="g-4">
-        <Search /> 
-      </Row>
-      <Row xs={1} md={3} className="g-4">
-        {books && books.map((item, idx) => (
-          <Col> 
-            <BookItem item={item} />
-          </Col>
-        ))}
+      
+      <Row >
+        <Row > 
+          <Col  md={4}>   <Search /></Col>
+          <Col md={8}>   <Autours /></Col>
+        </Row >
+        <Col  md={12}> 
+          <Row xs={1} md={4} className="g-4">
+            {books && books.map((item, idx) => (
+              <Col> 
+                <BookItem item={item} />
+              </Col>
+            ))}
+          </Row>
+        </Col>
       </Row>
       <Row>
         <Paginationui setPageno={setPageno} totalItems={totalItems} />

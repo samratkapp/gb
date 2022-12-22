@@ -36,17 +36,25 @@
 }
 
 .filter {
-  padding: 10px 10px;
+  padding: 5px 10px;
   display: flex;
   align-items: right;
+  margin: 10px 40px 20px 40px;
 }
 
 .filter label {
-  padding: 0px 15px;
+  padding: 0px 5px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.item-text {
+  font-weight: 300;
 }
 
 .book-item {
   margin-bottom: 20px;
+  font-weight: bold;
 }
 
 div.book-item img {
@@ -62,4 +70,30 @@ div.book-detail img {
 
 .pagination {
   margin: 0 auto;
+}
+
+.bg-light {
+  padding: 5px;
+  font-size: medium;
+  font-weight: 300;
+  margin: 2px;
+  background-color: aliceblue !important;
+}
+
+/* bg-light badge text-dark bg-primary */
+
+.bg-light:hover {
+  background-color: skyblue !important;
+}
+
+.bg-info {
+  padding: 5px;
+  font-size: medium;
+  font-weight: 300;
+  margin: 2px;
+  background-color: #0dcaf0;
+}
+
+.author {
+  float: left;
 }

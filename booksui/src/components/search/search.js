@@ -8,13 +8,9 @@ export const Search = () => {
   const {search, setSearch } = useContext(SearchContext) // 
   const {books, setBooks} = useContext(BooksContext) 
     
-  const handleChange = (e) => {
-    setSearch(e.target.value)
-  }
   const searchBooks = () => {
     getBooks({
-      q: search,
-      // filter: 'full',
+      q: search
     }).then((resp) => {
       setBooks(resp.items)
     }).catch((err) => {
@@ -24,8 +20,7 @@ export const Search = () => {
 
   return (
     <section className="filter"> 
-      <label> Search : </label> 
-      <input type="text" onChange = {handleChange}></input>
+      <input type="text" value={search} onChange = {(e) => {setSearch(e.target.value)}}></input>
       <button onClick={searchBooks}>Search</button>
     </section>
   )

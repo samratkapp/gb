@@ -4365,3 +4365,1708 @@
 {"level":"info","message":"BooksController:getBooks"}
 {"level":"info","message":"getBooks {\"startIndex\":\"9\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
 {"level":"info","message":"getBooks {\"key\":\"\",\"startIndex\":\"9\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"Listening on port 3005"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"q\":\"Jon Winokur\",\"startIndex\":1,\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"q\":\"Jon Winokur\",\"startIndex\":\"1\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"q\":\"Jon Winokur\",\"startIndex\":\"1\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"q\":\"Jon Winokur\",\"startIndex\":1,\"maxResults\":\"21\"}"}
+{"level":"info","message":"Listening on port 3005"}
+{"level":"info","message":"Listening on port 3005"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"intitle: Short Stories\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":10,\"q\":\"intitle: Short Stories\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"2\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"2\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"3\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"3\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"4\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"4\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"test\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"test\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"naresh\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"naresh\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"padam\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"padam\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"error","message":"getBooks"}
+{"level":"error","message":"BooksController:getBooks"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jon Winokur\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Jon Winokur\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"21\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"21\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"20\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"20\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Ruskin Bond\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Ruskin Bond\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Chetan Bhagat\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Chetan Bhagat\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Premchand\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Premchand\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"error","message":"getBooks"}
+{"level":"error","message":"BooksController:getBooks"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"R. K. Narayan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"R. K. Narayan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"error","message":"getBooks"}
+{"level":"error","message":"BooksController:getBooks"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Harivansh Rai Bachchan\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Harivansh Rai Bachchan\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Rabindranath Tagore\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Rabindranath Tagore\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Arundhati Roy\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Arundhati Roy\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"startIndex\":\"1\",\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":\"1\",\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Sarat Chandra Chattopadhyay\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Sarat Chandra Chattopadhyay\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Jhumpa Lahiri\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Jhumpa Lahiri\"}"}
+{"level":"info","message":"BooksValidator:validateGetBooks {\"q\":\"Robotics\",\"maxResults\":\"16\"}"}
+{"level":"info","message":"BooksController:getBooks"}
+{"level":"info","message":"getBooks {\"key\":\"AIzaSyA0hD2QmaO7_3jqR48YC-V-4SXTAaEfnZA\",\"startIndex\":1,\"maxResults\":\"16\",\"q\":\"Robotics\"}"}
