@@ -1,4 +1,5 @@
 import axios from 'axios'
+import { BASE_API_URL } from '../config/constant/constant'
 
 export const getBooks = (params = {
   // filter: 'full',
@@ -10,17 +11,13 @@ export const getBooks = (params = {
         q: 'Robotics',
       }
     }
-    if (!params.startIndex) {
-      params = {
-        ...params
-      }
-    }
+    
     params = {
       ...params,
       maxResults:16
     }
      
-    axios.get('http://localhost:3005/books', {
+    axios.get(`${BASE_API_URL}/books`, {
       params 
     })
       .then(function (response) {

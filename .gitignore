@@ -1,5 +1,6 @@
-booksui/node_modules
+/booksui/node_modules
 
 server/node_modules
 server/logs
+
 server/dist

@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "nodemon --exec ./node_modules/.bin/babel-node ./src/bin/server",
-    "start": "node /dist/bin/server",
+    "start": "nodemon ./dist/bin/server",
     "build": "rm -rf ./dist && ./node_modules/.bin/babel src -d dist",
     "lint": "./node_modules/.bin/eslint ./src/bin/server.js",
     "test": "./node_modules/.bin/jest"
