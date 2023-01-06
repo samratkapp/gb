@@ -6,7 +6,7 @@ import { Search } from '../search/search'
 import { BookItem } from './book-item'
 import { BooksContext } from './book.context'
 import { Paginationui } from '../pagination'
-import { Autours } from '../autours/autours'
+import { Authors } from '../authors/authors'
 
 
 export const Books = () => {
@@ -32,7 +32,7 @@ export const Books = () => {
       <Row >
         <Row > 
           <Col  md={4}>   <Search /></Col>
-          <Col md={8}>   <Autours /></Col>
+          <Col md={8}>   <Authors /></Col>
         </Row >
         <Col  md={12}> 
           <Row xs={1} md={4} className="g-4">

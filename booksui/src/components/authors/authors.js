@@ -5,7 +5,7 @@ import { BooksContext } from '../books/book.context'
 import { SearchContext } from '../search/search.context'
 
 
-export const Autours = () => {
+export const Authors = () => {
   const authorsArr = [
     'Sarat Chandra Chattopadhyay',
     'Harivansh Rai Bachchan',
