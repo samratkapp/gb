@@ -7,9 +7,12 @@ import { BookItem } from './book-item'
 import { BooksContext } from './book.context'
 import { Paginationui } from '../pagination'
 import { Authors } from '../authors/authors'
+import { SearchContext } from '../search/search.context'
 
 
 export const Books = () => {
+  const {search} = useContext(SearchContext) // 
+  
   const {books, setBooks,pageno,setPageno, totalItems,setTotalItems} = useContext(BooksContext)
   const items = []
     
@@ -19,7 +22,10 @@ export const Books = () => {
     })
   }, [])
   useEffect(() => {
-    getBooks({startIndex:pageno}).then((resp) => {
+    getBooks({
+      q:search,
+      startIndex:pageno
+    }).then((resp) => {
       setTotalItems(resp.totalItems)
       setBooks(resp.items)
     })
